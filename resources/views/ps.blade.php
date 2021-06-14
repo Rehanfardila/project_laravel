@@ -96,23 +96,7 @@
             </div>
 
 
-            <div class="col-3">
-                <div class="card">
-                    <div class="card-img-top"><img src="{{asset('storage/ng.jpg')}}" alt="Trulli"
-                            style="width: 100%; height:250px object-fitt: contain">
-                    </div>
 
-                    <div class="card-body">
-                        <h4> LITTLE NIGHTMARES II </h4>
-                        <br>
-                        <h5> Fantasy</h5>
-                        <br>
-                        <P> Harga : Rp200.000,00</P>
-                        <br>
-                        <input type="button" class="btn bg-info" value="beli">
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="container">
             <div class="row">
@@ -169,23 +153,7 @@
                 </div>
 
 
-                <div class="col-3">
-                    <div class="card">
-                        <div class="card-img-top"><img src="{{asset('storage/hel.jpg')}}" alt="Trulli"
-                                style="width: 100%; height:250px object-fitt: contain">
-                        </div>
 
-                        <div class="card-body">
-                            <h4> HELLO NEIGHBOR </h4>
-                            <br>
-                            <h5> Fantasy</h5>
-                            <br>
-                            <P> Harga : Rp300.000,00</P>
-                            <br>
-                            <input type="button" class="btn bg-info" value="beli">
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
