@@ -94,7 +94,23 @@
                     </div>
                 </div>
             </div>
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-img-top"><img src="{{asset('storage/tek.jpg')}}" alt="Trulli"
+                            style="width: 100%; height:250px object-fitt: contain">
+                    </div>
 
+                    <div class="card-body">
+                        <h4> TEKKEN 7 </h4>
+                        <br>
+                        <h5> Fighting</h5>
+                        <br>
+                        <P> Harga : Rp300.000,00</P>
+                        <br>
+                        <input type="button" class="btn bg-info" value="beli">
+                    </div>
+                </div>
+            </div>
 
 
         </div>
@@ -151,7 +167,23 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-3">
+                    <div class="card">
+                        <div class="card-img-top"><img src="{{asset('storage/tek.jpg')}}" alt="Trulli"
+                                style="width: 100%; height:250px object-fitt: contain">
+                        </div>
 
+                        <div class="card-body">
+                            <h4> TEKKEN 7 </h4>
+                            <br>
+                            <h5> Fighting</h5>
+                            <br>
+                            <P> Harga : Rp300.000,00</P>
+                            <br>
+                            <input type="button" class="btn bg-info" value="beli">
+                        </div>
+                    </div>
+                </div>
 
 
             </div>
